@@ -4,6 +4,6 @@ Run command to create migrations
 python manage.py makemigrations
 python manage.py migrate
 
-START server 
+**START server** 
 
 python manage.py runserver
